@@ -1,0 +1,42 @@
+{
+    "brackets": {
+        "expect": "never",
+        "error": false
+    },
+    "colons": {
+        "expect": "never",
+        "error": false
+    },
+    "colors": {
+        "expect": "always",
+        "error": false
+    },
+    "exclude": ["node_modules/**/*"],
+    "extendPref": {
+        "expect": "@extends",
+        "error": false
+    },
+    "globalDupe": true,
+    "indentPref": 4,
+    "leadingZero": {
+        "expect": "never",
+        "error": false
+    },
+    "mixed": true,
+    "namingConvention": {
+        "expect": "camelCase",
+        "error": false
+    },
+    "namingConventionStrict": true,
+    "none": "always",
+    "parenSpace": "never",
+    "quotePref": "single",
+    "sortOrder": {
+        "expect": "alphabetical",
+        "error": false
+    },
+    "universal": {
+        "expect": "never",
+        "error": false
+    }
+}
